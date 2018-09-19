@@ -1,4 +1,4 @@
-# Flat-Lit-Toon-MMD-Extension
+# Kaj's Flat-Lit-Toon-MMD-Extension
 MMD Sphere and Toon Texture supporting shaders based on Flat Lit Toon
 
 Ever wanted to replicate an MMD author's work as accurately as possible in VRChat?  Well now you can.
