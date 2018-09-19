@@ -16,6 +16,7 @@ In Unity, set the Wrap Mode of toon textures to Clamp, otherwise the very dark a
 
 Some sphere textures have the .spa or .sph file extension; you can rename these to .tga to use them in Unity.
 
+## 
 
 ![Additive Spheres](https://i.imgur.com/YET4on1.png)
 
