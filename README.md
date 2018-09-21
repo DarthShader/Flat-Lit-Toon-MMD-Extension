@@ -14,7 +14,7 @@ REQUIRES [Cubed's Unity Shaders](https://github.com/cubedparadox/Cubeds-Unity-Sh
 ## NOTES:
 In Unity, set the Wrap Mode of toon textures to Clamp, otherwise the very dark and very light areas of a surface will incorrectly mix the dark/light ends of a toon texture.
 
-Some sphere textures have the .spa or .sph file extension; you can rename these to .tga to use them in Unity.
+Some sphere textures have an .spa or .sph file extension; you can rename these to .tga to use them in Unity.
 
 ## 
 
